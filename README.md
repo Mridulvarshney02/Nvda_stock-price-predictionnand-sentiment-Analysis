@@ -1,1 +1,1 @@
-# Nvda_stock-price-predictionnand-sentiment-Analysis
+# Nvda_stock-price-prediction-and-sentiment-Analysis
